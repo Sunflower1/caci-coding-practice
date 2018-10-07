@@ -12,7 +12,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 
 //Adding comments
-//adding second comments
+//changing the comments
 @Configuration
 @EnableSwagger2
 public class SwaggerAPIConfig {
